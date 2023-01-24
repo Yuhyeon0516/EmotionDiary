@@ -1,1 +1,1 @@
-# EmotionDiary
+- EmotionDiary : I made an app that can write a diary according to the emotions of the day.
